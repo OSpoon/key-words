@@ -1,0 +1,21 @@
+{
+    "name": "key-words",
+    "publisher": "xiaoxintongxue",
+    "displayName": "key-words",
+    "description": "key-words",
+    "version": "0.0.2",
+    "engines": {
+        "vscode": "^1.61.0"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "'javascript','typescript'",
+                "path": "./snippets/snippets.code-snippets"
+            }
+        ]
+    }
+}

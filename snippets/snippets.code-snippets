@@ -1,0 +1,920 @@
+{
+	"Key Word （get）": {
+		"scope": "javascript,typescript",
+		"prefix": "kw.get",
+		"body": [
+			"get$1",
+			"$2"
+		],
+		"description": "获取"
+	},
+	"Key Word （set）": {
+		"scope": "javascript,typescript",
+		"prefix": "kw.set",
+		"body": [
+			"set$1",
+			"$2"
+		],
+		"description": "设置"
+	},
+	"Key Word （add）": {
+		"scope": "javascript,typescript",
+		"prefix": "kw.add",
+		"body": [
+			"add$1",
+			"$2"
+		],
+		"description": "增加"
+	},
+	"Key Word （remove）": {
+		"scope": "javascript,typescript",
+		"prefix": "kw.remove",
+		"body": [
+			"remove$1",
+			"$2"
+		],
+		"description": "删除"
+	},
+	"Key Word （create）": {
+		"scope": "javascript,typescript",
+		"prefix": "kw.create",
+		"body": [
+			"create$1",
+			"$2"
+		],
+		"description": "创建"
+	},
+	"Key Word （destory）": {
+		"scope": "javascript,typescript",
+		"prefix": "kw.destory",
+		"body": [
+			"destory$1",
+			"$2"
+		],
+		"description": "移除"
+	},
+	"Key Word （start）": {
+		"scope": "javascript,typescript",
+		"prefix": "kw.start",
+		"body": [
+			"start$1",
+			"$2"
+		],
+		"description": "启动"
+	},
+	"Key Word （stop）": {
+		"scope": "javascript,typescript",
+		"prefix": "kw.stop",
+		"body": [
+			"stop$1",
+			"$2"
+		],
+		"description": "停止"
+	},
+	"Key Word （open）": {
+		"scope": "javascript,typescript",
+		"prefix": "kw.open",
+		"body": [
+			"open$1",
+			"$2"
+		],
+		"description": "打开"
+	},
+	"Key Word （close）": {
+		"scope": "javascript,typescript",
+		"prefix": "kw.close",
+		"body": [
+			"close$1",
+			"$2"
+		],
+		"description": "关闭"
+	},
+	"Key Word （read）": {
+		"scope": "javascript,typescript",
+		"prefix": "kw.read",
+		"body": [
+			"read$1",
+			"$2"
+		],
+		"description": "读取"
+	},
+	"Key Word （write）": {
+		"scope": "javascript,typescript",
+		"prefix": "kw.write",
+		"body": [
+			"write$1",
+			"$2"
+		],
+		"description": "写入"
+	},
+	"Key Word （load）": {
+		"scope": "javascript,typescript",
+		"prefix": "kw.load",
+		"body": [
+			"load$1",
+			"$2"
+		],
+		"description": "载入"
+	},
+	"Key Word （save）": {
+		"scope": "javascript,typescript",
+		"prefix": "kw.save",
+		"body": [
+			"save$1",
+			"$2"
+		],
+		"description": "保存"
+	},
+	"Key Word （destroy）": {
+		"scope": "javascript,typescript",
+		"prefix": "kw.destroy",
+		"body": [
+			"destroy$1",
+			"$2"
+		],
+		"description": "销毁"
+	},
+	"Key Word （begin）": {
+		"scope": "javascript,typescript",
+		"prefix": "kw.begin",
+		"body": [
+			"begin$1",
+			"$2"
+		],
+		"description": "开始"
+	},
+	"Key Word （end）": {
+		"scope": "javascript,typescript",
+		"prefix": "kw.end",
+		"body": [
+			"end$1",
+			"$2"
+		],
+		"description": "结束"
+	},
+	"Key Word （backup）": {
+		"scope": "javascript,typescript",
+		"prefix": "kw.backup",
+		"body": [
+			"backup$1",
+			"$2"
+		],
+		"description": "备份"
+	},
+	"Key Word （restore）": {
+		"scope": "javascript,typescript",
+		"prefix": "kw.restore",
+		"body": [
+			"restore$1",
+			"$2"
+		],
+		"description": "恢复"
+	},
+	"Key Word （import）": {
+		"scope": "javascript,typescript",
+		"prefix": "kw.import",
+		"body": [
+			"import$1",
+			"$2"
+		],
+		"description": "导入"
+	},
+	"Key Word （export）": {
+		"scope": "javascript,typescript",
+		"prefix": "kw.export",
+		"body": [
+			"export$1",
+			"$2"
+		],
+		"description": "导出"
+	},
+	"Key Word （split）": {
+		"scope": "javascript,typescript",
+		"prefix": "kw.split",
+		"body": [
+			"split$1",
+			"$2"
+		],
+		"description": "分割"
+	},
+	"Key Word （merge）": {
+		"scope": "javascript,typescript",
+		"prefix": "kw.merge",
+		"body": [
+			"merge$1",
+			"$2"
+		],
+		"description": "合并"
+	},
+	"Key Word （inject）": {
+		"scope": "javascript,typescript",
+		"prefix": "kw.inject",
+		"body": [
+			"inject$1",
+			"$2"
+		],
+		"description": "注入"
+	},
+	"Key Word （extract）": {
+		"scope": "javascript,typescript",
+		"prefix": "kw.extract",
+		"body": [
+			"extract$1",
+			"$2"
+		],
+		"description": "提取"
+	},
+	"Key Word （attach）": {
+		"scope": "javascript,typescript",
+		"prefix": "kw.attach",
+		"body": [
+			"attach$1",
+			"$2"
+		],
+		"description": "附着"
+	},
+	"Key Word （detach）": {
+		"scope": "javascript,typescript",
+		"prefix": "kw.detach",
+		"body": [
+			"detach$1",
+			"$2"
+		],
+		"description": "脱离"
+	},
+	"Key Word （bind）": {
+		"scope": "javascript,typescript",
+		"prefix": "kw.bind",
+		"body": [
+			"bind$1",
+			"$2"
+		],
+		"description": "绑定"
+	},
+	"Key Word （separate）": {
+		"scope": "javascript,typescript",
+		"prefix": "kw.separate",
+		"body": [
+			"separate$1",
+			"$2"
+		],
+		"description": "分离"
+	},
+	"Key Word （view）": {
+		"scope": "javascript,typescript",
+		"prefix": "kw.view",
+		"body": [
+			"view$1",
+			"$2"
+		],
+		"description": "查看"
+	},
+	"Key Word （browse）": {
+		"scope": "javascript,typescript",
+		"prefix": "kw.browse",
+		"body": [
+			"browse$1",
+			"$2"
+		],
+		"description": "浏览"
+	},
+	"Key Word （edit）": {
+		"scope": "javascript,typescript",
+		"prefix": "kw.edit",
+		"body": [
+			"edit$1",
+			"$2"
+		],
+		"description": "编辑"
+	},
+	"Key Word （modify）": {
+		"scope": "javascript,typescript",
+		"prefix": "kw.modify",
+		"body": [
+			"modify$1",
+			"$2"
+		],
+		"description": "修改"
+	},
+	"Key Word （select）": {
+		"scope": "javascript,typescript",
+		"prefix": "kw.select",
+		"body": [
+			"select$1",
+			"$2"
+		],
+		"description": "选取"
+	},
+	"Key Word （mark）": {
+		"scope": "javascript,typescript",
+		"prefix": "kw.mark",
+		"body": [
+			"mark$1",
+			"$2"
+		],
+		"description": "标记"
+	},
+	"Key Word （copy）": {
+		"scope": "javascript,typescript",
+		"prefix": "kw.copy",
+		"body": [
+			"copy$1",
+			"$2"
+		],
+		"description": "复制"
+	},
+	"Key Word （paste）": {
+		"scope": "javascript,typescript",
+		"prefix": "kw.paste",
+		"body": [
+			"paste$1",
+			"$2"
+		],
+		"description": "粘贴"
+	},
+	"Key Word （undo）": {
+		"scope": "javascript,typescript",
+		"prefix": "kw.undo",
+		"body": [
+			"undo$1",
+			"$2"
+		],
+		"description": "撤销"
+	},
+	"Key Word （redo）": {
+		"scope": "javascript,typescript",
+		"prefix": "kw.redo",
+		"body": [
+			"redo$1",
+			"$2"
+		],
+		"description": "重做"
+	},
+	"Key Word （insert）": {
+		"scope": "javascript,typescript",
+		"prefix": "kw.insert",
+		"body": [
+			"insert$1",
+			"$2"
+		],
+		"description": "插入"
+	},
+	"Key Word （delete）": {
+		"scope": "javascript,typescript",
+		"prefix": "kw.delete",
+		"body": [
+			"delete$1",
+			"$2"
+		],
+		"description": "移除"
+	},
+	"Key Word （append）": {
+		"scope": "javascript,typescript",
+		"prefix": "kw.append",
+		"body": [
+			"append$1",
+			"$2"
+		],
+		"description": "添加"
+	},
+	"Key Word （clean）": {
+		"scope": "javascript,typescript",
+		"prefix": "kw.clean",
+		"body": [
+			"clean$1",
+			"$2"
+		],
+		"description": "清理"
+	},
+	"Key Word （clear）": {
+		"scope": "javascript,typescript",
+		"prefix": "kw.clear",
+		"body": [
+			"clear$1",
+			"$2"
+		],
+		"description": "清除"
+	},
+	"Key Word （index）": {
+		"scope": "javascript,typescript",
+		"prefix": "kw.index",
+		"body": [
+			"index$1",
+			"$2"
+		],
+		"description": "索引"
+	},
+	"Key Word （sort）": {
+		"scope": "javascript,typescript",
+		"prefix": "kw.sort",
+		"body": [
+			"sort$1",
+			"$2"
+		],
+		"description": "排序"
+	},
+	"Key Word （find）": {
+		"scope": "javascript,typescript",
+		"prefix": "kw.find",
+		"body": [
+			"find$1",
+			"$2"
+		],
+		"description": "查找"
+	},
+	"Key Word （search）": {
+		"scope": "javascript,typescript",
+		"prefix": "kw.search",
+		"body": [
+			"search$1",
+			"$2"
+		],
+		"description": "搜索"
+	},
+	"Key Word （increase）": {
+		"scope": "javascript,typescript",
+		"prefix": "kw.increase",
+		"body": [
+			"increase$1",
+			"$2"
+		],
+		"description": "增加"
+	},
+	"Key Word （decrease）": {
+		"scope": "javascript,typescript",
+		"prefix": "kw.decrease",
+		"body": [
+			"decrease$1",
+			"$2"
+		],
+		"description": "减少"
+	},
+	"Key Word （play）": {
+		"scope": "javascript,typescript",
+		"prefix": "kw.play",
+		"body": [
+			"play$1",
+			"$2"
+		],
+		"description": "播放"
+	},
+	"Key Word （pause）": {
+		"scope": "javascript,typescript",
+		"prefix": "kw.pause",
+		"body": [
+			"pause$1",
+			"$2"
+		],
+		"description": "暂停"
+	},
+	"Key Word （launch）": {
+		"scope": "javascript,typescript",
+		"prefix": "kw.launch",
+		"body": [
+			"launch$1",
+			"$2"
+		],
+		"description": "启动"
+	},
+	"Key Word （run）": {
+		"scope": "javascript,typescript",
+		"prefix": "kw.run",
+		"body": [
+			"run$1",
+			"$2"
+		],
+		"description": "运行"
+	},
+	"Key Word （compile）": {
+		"scope": "javascript,typescript",
+		"prefix": "kw.compile",
+		"body": [
+			"compile$1",
+			"$2"
+		],
+		"description": "编译"
+	},
+	"Key Word （execute）": {
+		"scope": "javascript,typescript",
+		"prefix": "kw.execute",
+		"body": [
+			"execute$1",
+			"$2"
+		],
+		"description": "执行"
+	},
+	"Key Word （debug）": {
+		"scope": "javascript,typescript",
+		"prefix": "kw.debug",
+		"body": [
+			"debug$1",
+			"$2"
+		],
+		"description": "调试"
+	},
+	"Key Word （trace）": {
+		"scope": "javascript,typescript",
+		"prefix": "kw.trace",
+		"body": [
+			"trace$1",
+			"$2"
+		],
+		"description": "跟踪"
+	},
+	"Key Word （observe）": {
+		"scope": "javascript,typescript",
+		"prefix": "kw.observe",
+		"body": [
+			"observe$1",
+			"$2"
+		],
+		"description": "观察"
+	},
+	"Key Word （listen）": {
+		"scope": "javascript,typescript",
+		"prefix": "kw.listen",
+		"body": [
+			"listen$1",
+			"$2"
+		],
+		"description": "监听"
+	},
+	"Key Word （build）": {
+		"scope": "javascript,typescript",
+		"prefix": "kw.build",
+		"body": [
+			"build$1",
+			"$2"
+		],
+		"description": "构建"
+	},
+	"Key Word （publish）": {
+		"scope": "javascript,typescript",
+		"prefix": "kw.publish",
+		"body": [
+			"publish$1",
+			"$2"
+		],
+		"description": "发布"
+	},
+	"Key Word （input）": {
+		"scope": "javascript,typescript",
+		"prefix": "kw.input",
+		"body": [
+			"input$1",
+			"$2"
+		],
+		"description": "输入"
+	},
+	"Key Word （output）": {
+		"scope": "javascript,typescript",
+		"prefix": "kw.output",
+		"body": [
+			"output$1",
+			"$2"
+		],
+		"description": "输出"
+	},
+	"Key Word （encode）": {
+		"scope": "javascript,typescript",
+		"prefix": "kw.encode",
+		"body": [
+			"encode$1",
+			"$2"
+		],
+		"description": "编码"
+	},
+	"Key Word （decode）": {
+		"scope": "javascript,typescript",
+		"prefix": "kw.decode",
+		"body": [
+			"decode$1",
+			"$2"
+		],
+		"description": "解码"
+	},
+	"Key Word （encrypt）": {
+		"scope": "javascript,typescript",
+		"prefix": "kw.encrypt",
+		"body": [
+			"encrypt$1",
+			"$2"
+		],
+		"description": "加密"
+	},
+	"Key Word （decrypt）": {
+		"scope": "javascript,typescript",
+		"prefix": "kw.decrypt",
+		"body": [
+			"decrypt$1",
+			"$2"
+		],
+		"description": "解密"
+	},
+	"Key Word （compress）": {
+		"scope": "javascript,typescript",
+		"prefix": "kw.compress",
+		"body": [
+			"compress$1",
+			"$2"
+		],
+		"description": "压缩"
+	},
+	"Key Word （decompress）": {
+		"scope": "javascript,typescript",
+		"prefix": "kw.decompress",
+		"body": [
+			"decompress$1",
+			"$2"
+		],
+		"description": "解压缩"
+	},
+	"Key Word （pack）": {
+		"scope": "javascript,typescript",
+		"prefix": "kw.pack",
+		"body": [
+			"pack$1",
+			"$2"
+		],
+		"description": "打包"
+	},
+	"Key Word （unpack）": {
+		"scope": "javascript,typescript",
+		"prefix": "kw.unpack",
+		"body": [
+			"unpack$1",
+			"$2"
+		],
+		"description": "解包"
+	},
+	"Key Word （parse）": {
+		"scope": "javascript,typescript",
+		"prefix": "kw.parse",
+		"body": [
+			"parse$1",
+			"$2"
+		],
+		"description": "解析"
+	},
+	"Key Word （emit）": {
+		"scope": "javascript,typescript",
+		"prefix": "kw.emit",
+		"body": [
+			"emit$1",
+			"$2"
+		],
+		"description": "生成"
+	},
+	"Key Word （connect）": {
+		"scope": "javascript,typescript",
+		"prefix": "kw.connect",
+		"body": [
+			"connect$1",
+			"$2"
+		],
+		"description": "连接"
+	},
+	"Key Word （disconnect）": {
+		"scope": "javascript,typescript",
+		"prefix": "kw.disconnect",
+		"body": [
+			"disconnect$1",
+			"$2"
+		],
+		"description": "断开"
+	},
+	"Key Word （send）": {
+		"scope": "javascript,typescript",
+		"prefix": "kw.send",
+		"body": [
+			"send$1",
+			"$2"
+		],
+		"description": "发送"
+	},
+	"Key Word （receive）": {
+		"scope": "javascript,typescript",
+		"prefix": "kw.receive",
+		"body": [
+			"receive$1",
+			"$2"
+		],
+		"description": "接收"
+	},
+	"Key Word （download）": {
+		"scope": "javascript,typescript",
+		"prefix": "kw.download",
+		"body": [
+			"download$1",
+			"$2"
+		],
+		"description": "下载"
+	},
+	"Key Word （upload）": {
+		"scope": "javascript,typescript",
+		"prefix": "kw.upload",
+		"body": [
+			"upload$1",
+			"$2"
+		],
+		"description": "上传"
+	},
+	"Key Word （refresh）": {
+		"scope": "javascript,typescript",
+		"prefix": "kw.refresh",
+		"body": [
+			"refresh$1",
+			"$2"
+		],
+		"description": "刷新"
+	},
+	"Key Word （synchronize）": {
+		"scope": "javascript,typescript",
+		"prefix": "kw.synchronize",
+		"body": [
+			"synchronize$1",
+			"$2"
+		],
+		"description": "同步"
+	},
+	"Key Word （update）": {
+		"scope": "javascript,typescript",
+		"prefix": "kw.update",
+		"body": [
+			"update$1",
+			"$2"
+		],
+		"description": "更新"
+	},
+	"Key Word （revert）": {
+		"scope": "javascript,typescript",
+		"prefix": "kw.revert",
+		"body": [
+			"revert$1",
+			"$2"
+		],
+		"description": "复原"
+	},
+	"Key Word （lock）": {
+		"scope": "javascript,typescript",
+		"prefix": "kw.lock",
+		"body": [
+			"lock$1",
+			"$2"
+		],
+		"description": "锁定"
+	},
+	"Key Word （unlock）": {
+		"scope": "javascript,typescript",
+		"prefix": "kw.unlock",
+		"body": [
+			"unlock$1",
+			"$2"
+		],
+		"description": "解锁"
+	},
+	"Key Word （check）": {
+		"scope": "javascript,typescript",
+		"prefix": "kw.check",
+		"body": [
+			"check$1",
+			"$2"
+		],
+		"description": "out"
+	},
+	"Key Word （submit）": {
+		"scope": "javascript,typescript",
+		"prefix": "kw.submit",
+		"body": [
+			"submit$1",
+			"$2"
+		],
+		"description": "提交"
+	},
+	"Key Word （commit）": {
+		"scope": "javascript,typescript",
+		"prefix": "kw.commit",
+		"body": [
+			"commit$1",
+			"$2"
+		],
+		"description": "交付"
+	},
+	"Key Word （push）": {
+		"scope": "javascript,typescript",
+		"prefix": "kw.push",
+		"body": [
+			"push$1",
+			"$2"
+		],
+		"description": "推"
+	},
+	"Key Word （pull）": {
+		"scope": "javascript,typescript",
+		"prefix": "kw.pull",
+		"body": [
+			"pull$1",
+			"$2"
+		],
+		"description": "拉"
+	},
+	"Key Word （expand）": {
+		"scope": "javascript,typescript",
+		"prefix": "kw.expand",
+		"body": [
+			"expand$1",
+			"$2"
+		],
+		"description": "展开"
+	},
+	"Key Word （collapse）": {
+		"scope": "javascript,typescript",
+		"prefix": "kw.collapse",
+		"body": [
+			"collapse$1",
+			"$2"
+		],
+		"description": "折叠"
+	},
+	"Key Word （finish）": {
+		"scope": "javascript,typescript",
+		"prefix": "kw.finish",
+		"body": [
+			"finish$1",
+			"$2"
+		],
+		"description": "完成"
+	},
+	"Key Word （enter）": {
+		"scope": "javascript,typescript",
+		"prefix": "kw.enter",
+		"body": [
+			"enter$1",
+			"$2"
+		],
+		"description": "进入"
+	},
+	"Key Word （exit）": {
+		"scope": "javascript,typescript",
+		"prefix": "kw.exit",
+		"body": [
+			"exit$1",
+			"$2"
+		],
+		"description": "退出"
+	},
+	"Key Word （abort）": {
+		"scope": "javascript,typescript",
+		"prefix": "kw.abort",
+		"body": [
+			"abort$1",
+			"$2"
+		],
+		"description": "放弃"
+	},
+	"Key Word （quit）": {
+		"scope": "javascript,typescript",
+		"prefix": "kw.quit",
+		"body": [
+			"quit$1",
+			"$2"
+		],
+		"description": "离开"
+	},
+	"Key Word （obsolete）": {
+		"scope": "javascript,typescript",
+		"prefix": "kw.obsolete",
+		"body": [
+			"obsolete$1",
+			"$2"
+		],
+		"description": "废弃"
+	},
+	"Key Word （depreciate）": {
+		"scope": "javascript,typescript",
+		"prefix": "kw.depreciate",
+		"body": [
+			"depreciate$1",
+			"$2"
+		],
+		"description": "废旧"
+	},
+	"Key Word （collect）": {
+		"scope": "javascript,typescript",
+		"prefix": "kw.collect",
+		"body": [
+			"collect$1",
+			"$2"
+		],
+		"description": "收集"
+	},
+	"Key Word （aggregate）": {
+		"scope": "javascript,typescript",
+		"prefix": "kw.aggregate",
+		"body": [
+			"aggregate$1",
+			"$2"
+		],
+		"description": "聚集"
+	}
+}
